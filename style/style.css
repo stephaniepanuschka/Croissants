@@ -1,0 +1,27 @@
+body{
+  background: #eeecf4;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a{
+  margin: 0 10px;
+  color: blueviolet; 
+}
+
+.croissant {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+  }
